@@ -119,7 +119,7 @@ More on 👉 [kero.10001mb.com/blog](https://kero.10001mb.com/blog/?lang=en)
 | Channel | Link |
 |---|---|
 | 🌐 Portfolio | [kero.10001mb.com](https://kero.10001mb.com) |
-| 💼 LinkedIn | [linkedin.com/in/keroonader](https://linkedin.com/in/keroonader) |
+| 💼 LinkedIn | [linkedin.com/in/kero-nader-98732b288](https://www.linkedin.com/in/kero-nader-98732b288/) |
 | 🐙 GitHub | [github.com/KeroNaderDev](https://github.com/KeroNaderDev) |
 | 📧 Email | [keroonader073@gmail.com](mailto:keroonader073@gmail.com) |
 | 📍 Location | Cairo, Egypt |
