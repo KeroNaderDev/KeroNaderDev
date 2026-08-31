@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=140&section=header&text=&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=160&section=header&text=Kero%20Nader&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=55&descAlign=50&fontAlignY=38&animation=fadeIn" />
 
 <h1 align="center">Kero Nader</h1>
 <p align="center"><b>Cybersecurity Engineer | Full Stack Developer | DevOps & IoT</b></p>
