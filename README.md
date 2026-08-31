@@ -224,29 +224,6 @@ MODE           ENGINEERING
 </p>
 ---
 
-<details>
-<summary>📦 All Repositories (14) — Full Data</summary>
-
-| Repository | Description | Language | Visibility | Link |
-|---|---|---|---|---|
-| `KeroNaderDev` | Profile README — Cyberpunk Portfolio | — | Public | [View](https://github.com/KeroNaderDev/KeroNaderDev) |
-| `Kora-gym` | Kora Academy Platform — Football academy | HTML | Private | [View](https://github.com/KeroNaderDev/Kora-gym) |
-| `koragym` | Complete Gym Management System | TypeScript | Private | [View](https://github.com/KeroNaderDev/koragym) |
-| `webkoragym` | WebKoraGym — Gym Academy web platform | TypeScript | Private | [View](https://github.com/KeroNaderDev/webkoragym) |
-| `koragym-dashboard` | Admin dashboard — Analytics/RBAC | TypeScript | Private | [View](https://github.com/KeroNaderDev/koragym-dashboard) |
-| `insight-ai` | ESP32 Environmental Monitoring — AI | TypeScript | Private | [View](https://github.com/KeroNaderDev/insight-ai) |
-| `locaandcam` | Location & Camera — ESP32 IoT | HTML | Private | [View](https://github.com/KeroNaderDev/locaandcam) |
-| `api-mask` | Secure API Proxy & Masking | JavaScript | Private | [View](https://github.com/KeroNaderDev/api-mask) |
-| `smm-bot` | Telegram SMM Bot — Foollo API | Python | Private | [View](https://github.com/KeroNaderDev/smm-bot) |
-| `saasagnet` | SaaS Agent Platform — AI Automation | TypeScript | Private | [View](https://github.com/KeroNaderDev/saasagnet) |
-| `mina` | Mina Travel — Booking platform | — | Private | [View](https://github.com/KeroNaderDev/mina) |
-| `BotWhatsap` | WhatsApp Automation Bot | — | Private | [View](https://github.com/KeroNaderDev/BotWhatsap) |
-| `mast7elgarema` | Management System — Full Stack | JavaScript | Private | [View](https://github.com/KeroNaderDev/mast7elgarema) |
-| `KerolosNader19` | Legacy Profile README | — | Public | [View](https://github.com/KeroNaderDev/KerolosNader19) |
-
-*All private repos include architecture + security notes in README — ready to make public for showcase.*
-</details>
-
 ### 📫 Let's Connect
 *Interested in Cybersecurity, Full Stack, DevOps, Backend, IoT/Embedded roles.*
 
