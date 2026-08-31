@@ -1,3 +1,5 @@
+
+![Main Banner](./banner.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=160&section=header&text=Kero%20Nader&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Embedded%20and%20IoT&descAlignY=55&descAlign=50&fontAlignY=38&animation=fadeIn" />
 
 <p align="center"><b>Cybersecurity Engineer | Full Stack Developer | DevOps & IoT</b></p>
@@ -12,6 +14,8 @@
 ---
 
 ### 💻 HERO TERMINAL
+
+![Full Stack](./fullstack.svg)
 ```text
 ┌─────────────────────────────────────────────┐
 │ kero@systems:~$                            │
@@ -128,6 +132,8 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 ---
 
 ### 🛡️ SECURITY OPERATIONS
+
+![Cybersecurity](./cybersecurity.svg)
 ```text
 RECON → SCANNING → ENUMERATION → VULNERABILITY → EXPLOITATION → ANALYSIS → REMEDIATION → REPORT
 ```
@@ -142,12 +148,16 @@ USER → FRONTEND → API → BACKEND → DATABASE → AUTH → DOCKER → DEPLO
 CODE → GITHUB → CI/CD → BUILD → TEST → DOCKER → LINUX → NGINX → SSL → DEPLOYMENT
 ```
 ### 🤖 IoT & EMBEDDED SYSTEMS
+
+![AI & ML](./aiml.svg)
 ```text
 ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 ```
 ---
 
-### 🛠 Tech Stack — The Tools I Actually Use
+### 🛠 Tech Stack
+
+![Tech Stack](./techstack.svg) — The Tools I Actually Use
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,bash" alt="Stack" />
 </p>
@@ -165,6 +175,8 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 ---
 
 ### 🧪 ENGINEERING LABS
+
+![Open Source](./opensource.svg)
 | [ <img src="https://img.icons8.com/color/20/shield.png" width="14"/> SECURITY LAB ] | [ <img src="https://img.icons8.com/color/20/code.png" width="14"/> DEVELOPMENT LAB ] |
 |---|---|
 | Kali • Burp • OWASP • VulnHub | React • Node.js • Express • Databases |
@@ -183,6 +195,8 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 ---
 
 ### 📈 SYSTEM STATUS
+
+![Status](./status.svg)
 ```text
 SYSTEM STATUS
 ────────────────────

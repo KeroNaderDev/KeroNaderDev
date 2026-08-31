@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/><stop offset="100%" style="stop-color:#1a002a"/>
+    </linearGradient>
+    <filter id="glow2a"><feGaussianBlur stdDeviation="4" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="neonGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff80"/><stop offset="100%" style="stop-color:#00f0ff"/>
+    </linearGradient>
+    <linearGradient id="neonPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8000ff"/><stop offset="100%" style="stop-color:#ff00ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="200" fill="url(#bg2)" rx="10"/>
+  <polygon points="50,20 80,5 110,20 110,50 80,65 50,50" fill="none" stroke="#00f0ff" stroke-width="1" opacity="0.5"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/></polygon>
+  <polygon points="520,20 550,5 580,20 580,50 550,65 520,50" fill="none" stroke="#ff00ff" stroke-width="1" opacity="0.5"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/></polygon>
+  <rect x="30" y="80" width="120" height="90" fill="none" stroke="url(#neonGreen)" stroke-width="2" rx="5" filter="url(#glow2a)" opacity="0.8"/>
+  <text x="90" y="115" font-family="monospace" font-size="11" fill="#00ff80" text-anchor="middle" font-weight="bold">FRONTEND</text>
+  <text x="90" y="135" font-family="monospace" font-size="9" fill="#80ffff" text-anchor="middle">React | Vue</text>
+  <text x="90" y="150" font-family="monospace" font-size="9" fill="#80ffff" text-anchor="middle">Next.js | TS</text>
+  <rect x="450" y="80" width="120" height="90" fill="none" stroke="url(#neonPurple)" stroke-width="2" rx="5" filter="url(#glow2a)" opacity="0.8"/>
+  <text x="510" y="115" font-family="monospace" font-size="11" fill="#ff00ff" text-anchor="middle" font-weight="bold">BACKEND</text>
+  <text x="510" y="135" font-family="monospace" font-size="9" fill="#ff80ff" text-anchor="middle">Node.js | Python</text>
+  <text x="510" y="150" font-family="monospace" font-size="9" fill="#ff80ff" text-anchor="middle">Go | Rust</text>
+  <line x1="155" y1="125" x2="445" y2="125" stroke="#00f0ff" stroke-width="1" opacity="0.3"/>
+  <circle r="4" fill="#00f0ff" filter="url(#glow2a)"><animateMotion dur="3s" repeatCount="indefinite" path="M155,125 L445,125"/></circle>
+  <circle r="4" fill="#ff00ff" filter="url(#glow2a)"><animateMotion dur="3s" repeatCount="indefinite" path="M445,125 L155,125" begin="1.5s"/></circle>
+  <text x="300" y="50" font-family="monospace" font-size="28" font-weight="bold" fill="#00f0ff" text-anchor="middle" filter="url(#glow2a)">FULL STACK DEVELOPER</text>
+  <g transform="translate(270, 100)">
+    <ellipse cx="30" cy="5" rx="20" ry="8" fill="none" stroke="#ffaa00" stroke-width="1.5" opacity="0.8"/>
+    <line x1="10" y1="5" x2="10" y2="40" stroke="#ffaa00" stroke-width="1.5" opacity="0.8"/>
+    <line x1="50" y1="5" x2="50" y2="40" stroke="#ffaa00" stroke-width="1.5" opacity="0.8"/>
+    <ellipse cx="30" cy="40" rx="20" ry="8" fill="none" stroke="#ffaa00" stroke-width="1.5" opacity="0.8"/>
+    <ellipse cx="30" cy="22" rx="20" ry="8" fill="none" stroke="#ffaa00" stroke-width="1" opacity="0.5"/>
+  </g>
+  <text x="300" y="185" font-family="monospace" font-size="10" fill="#80ffff" text-anchor="middle" opacity="0.7">&gt; Deploying to production... _<animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/></text>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a15"/><stop offset="50%" style="stop-color:#150a20"/><stop offset="100%" style="stop-color:#0a1520"/>
+    </linearGradient>
+    <filter id="glow5"><feGaussianBlur stdDeviation="2" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f0ff"/><stop offset="33%" style="stop-color:#ff00ff"/><stop offset="66%" style="stop-color:#00ff80"/><stop offset="100%" style="stop-color:#ffaa00"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg5)"/>
+  <rect x="0" y="0" width="800" height="3" fill="url(#grad5)" opacity="0.8"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></rect>
+  <rect x="0" y="197" width="800" height="3" fill="url(#grad5)" opacity="0.8"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/></rect>
+  <text x="400" y="35" font-family="monospace" font-size="22" font-weight="bold" fill="#00f0ff" text-anchor="middle" filter="url(#glow5)">⚡ TECH STACK &amp; TOOLS ⚡</text>
+  <g transform="translate(50, 60)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#ffaa00">JavaScript</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#ffaa00" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="180" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#ffaa00">90%</text>
+  </g>
+  <g transform="translate(50, 85)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#3178c6">TypeScript</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#3178c6" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="170" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#3178c6">85%</text>
+  </g>
+  <g transform="translate(50, 110)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#00ff80">Python</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#00ff80" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="190" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#00ff80">95%</text>
+  </g>
+  <g transform="translate(400, 60)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#61dafb">React/Next</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#61dafb" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="185" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#61dafb">92%</text>
+  </g>
+  <g transform="translate(400, 85)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#68a063">Node.js</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#68a063" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="175" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#68a063">87%</text>
+  </g>
+  <g transform="translate(400, 110)">
+    <text x="0" y="12" font-family="monospace" font-size="11" fill="#00f0ff">Docker/K8s</text>
+    <rect x="90" y="2" width="200" height="14" fill="none" stroke="#333" stroke-width="1" rx="2"/>
+    <rect x="90" y="2" width="0" height="14" fill="#00f0ff" rx="2" opacity="0.8"><animate attributeName="width" from="0" to="160" dur="2s" fill="freeze"/></rect>
+    <text x="295" y="13" font-family="monospace" font-size="9" fill="#00f0ff">80%</text>
+  </g>
+  <g opacity="0.4">
+    <text x="50" y="160" font-family="monospace" font-size="9" fill="#00f0ff">&gt; npm install --save future<animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/></text>
+    <text x="50" y="175" font-family="monospace" font-size="9" fill="#ff00ff">&gt; git push origin main --force<animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/></text>
+    <text x="50" y="190" font-family="monospace" font-size="9" fill="#00ff80">&gt; docker-compose up -d<animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/></text>
+  </g>
+  <g transform="translate(740, 165)">
+    <g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="4s" repeatCount="indefinite"/>
+      <circle cx="0" cy="0" r="12" fill="none" stroke="#ff00ff" stroke-width="2" stroke-dasharray="4,3"/>
+      <circle cx="0" cy="0" r="4" fill="#ff00ff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="500" height="150">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001a0a"/><stop offset="100%" style="stop-color:#0a0a1a"/>
+    </linearGradient>
+    <filter id="glow7"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="500" height="150" fill="url(#bg7)" rx="10"/>
+  <rect x="3" y="3" width="494" height="144" fill="none" stroke="#00ff80" stroke-width="2" rx="8" opacity="0.6"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/></rect>
+  <circle cx="40" cy="50" r="10" fill="#00ff00" filter="url(#glow7)"><animate attributeName="r" values="8;12;8" dur="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="65" y="45" font-family="monospace" font-size="14" fill="#00ff80" font-weight="bold">STATUS: AVAILABLE</text>
+  <text x="65" y="65" font-family="monospace" font-size="10" fill="#80ffff">Open for new projects &amp; collaborations</text>
+  <g transform="translate(30, 85)">
+    <rect x="0" y="0" width="140" height="45" fill="none" stroke="#00f0ff" stroke-width="1" rx="5" opacity="0.5"/>
+    <text x="70" y="18" font-family="monospace" font-size="10" fill="#00f0ff" text-anchor="middle">📧 CONTACT</text>
+    <text x="70" y="35" font-family="monospace" font-size="8" fill="#80ffff" text-anchor="middle">DM for inquiries</text>
+  </g>
+  <g transform="translate(180, 85)">
+    <rect x="0" y="0" width="140" height="45" fill="none" stroke="#ff00ff" stroke-width="1" rx="5" opacity="0.5"/>
+    <text x="70" y="18" font-family="monospace" font-size="10" fill="#ff00ff" text-anchor="middle">⚡ RESPONSE</text>
+    <text x="70" y="35" font-family="monospace" font-size="8" fill="#ff80ff" text-anchor="middle">&lt; 24 hours</text>
+  </g>
+  <g transform="translate(330, 85)">
+    <rect x="0" y="0" width="140" height="45" fill="none" stroke="#00ff80" stroke-width="1" rx="5" opacity="0.5"/>
+    <text x="70" y="18" font-family="monospace" font-size="10" fill="#00ff80" text-anchor="middle">🚀 FREELANCE</text>
+    <text x="70" y="35" font-family="monospace" font-size="8" fill="#80ff80" text-anchor="middle">Remote / Worldwide</text>
+  </g>
+</svg>
