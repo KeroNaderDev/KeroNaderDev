@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=160&section=header&text=&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=140&section=header&text=&animation=fadeIn" />
 
 <h1 align="center">Kero Nader</h1>
 <p align="center"><b>Cybersecurity Engineer | Full Stack Developer | DevOps & IoT</b></p>
@@ -34,7 +34,28 @@
 ```
 <img src="./assets/hero/terminal.gif" width="640" alt="Terminal" />
 
-### Core Expertise
+---
+
+### ✨ About Me — End-to-End Builder
+<img align="right" src="https://kero.10001mb.com/kero2.jpg" width="200" style="border-radius:50%;border:3px solid #00d2ff" alt="Kero Nader" />
+
+I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of **OrcaTech**
+
+> Instead of being *just* a web dev or *just* a pentester, I connect the dots: **React app → Docker → Linux → ESP32 → REST API → DB → Dashboard → Pentest**. That **End-to-End** perspective is my edge.
+
+- 🔒 **30+ Systems Secured** — Pentests & vuln assessments
+- 🚀 **15+ Apps & Systems Built** — Full stack + IoT + dashboards
+- 🧪 **5+ Years Hands-On** — Labs, production & hardware
+- 📍 **Cairo, Egypt** | 🏢 **OrcaTech** | 🌐 [kero.10001mb.com](https://kero.10001mb.com)
+
+**Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
+<p align="center"><img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="600" alt="Pipeline Diagram" /></p>
+
+<br clear="right"/>
+
+---
+
+### 🧠 Core Expertise
 **Cybersecurity** — OWASP, Web Pentesting, Burp Suite, Nmap, Wireshark, Vulnerability Assessment
 **Full Stack** — React, Node.js, Express.js, REST APIs, JWT, RBAC, MySQL, PostgreSQL, MongoDB
 **DevOps** — Linux, Docker, Git, GitHub Actions, CI/CD, Nginx, Deployment
@@ -42,9 +63,25 @@
 
 ---
 
-### 🔗 END-TO-END SYSTEM PIPELINE
-*FROM CODE TO CLOUD TO HARDWARE*
+### 🎯 Four Pillars, One Pipeline
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-00d2ff?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-10b981?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
+| Pillar | Focus | Key Skills |
+|---|---|---|
+| **<img src="https://img.icons8.com/color/24/shield.png" width="18"/> Cybersecurity** <br/> *Offensive & Defensive* | Pentesting • Web Security | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top10` `Red Team` `CVSS` |
+| **<img src="https://img.icons8.com/color/24/source-code.png" width="18"/> Full Stack** <br/> *Frontend • Backend • DB* | Real apps, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
+| **<img src="https://img.icons8.com/color/24/server.png" width="18"/> DevOps & Cloud** <br/> *Build → Ship → Run* | GitHub → Production | `Linux` `Git` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL` |
+| **<img src="https://img.icons8.com/color/24/processor.png" width="18"/> Embedded & IoT** <br/> *Where SW meets HW* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` |
+
+---
+
+### 🔗 END-TO-END SYSTEM PIPELINE
+*Visual identity — FROM CODE TO CLOUD TO HARDWARE*
 ```text
 ┌──────────┐
 │   CODE   │
@@ -110,7 +147,11 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack — The Tools I Actually Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,bash" alt="Stack" />
+</p>
+
 | Category | Technologies |
 |---|---|
 | Languages | Python, JavaScript, C/C++, SQL, Bash, HTML, CSS |
@@ -123,38 +164,34 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects — Content-Specific
 
-**🔐 Cybersecurity**
-| Project | One-line | Tech | Link |
-|---|---|---|---|
-| OWASP Juice Shop — Web Pentest | Web app security assessment | Burp, OWASP, Nmap | [Report](https://kero.10001mb.com/report.html) |
+<p align="center">
+  <img src="https://kero.10001mb.com/food_delivery_app.png" width="170" alt="Food Delivery" />
+  <img src="https://kero.10001mb.com/gym_management_system.png" width="170" alt="Gym System" />
+  <img src="https://kero.10001mb.com/football_academy_system.png" width="170" alt="Kora Academy" />
+  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="170" alt="ESP32 IoT" />
+</p>
 
-**💻 Full Stack**
-| Project | One-line | Tech | Link |
-|---|---|---|---|
-| Gym Academy | Member/subscription/payment | React, Node, MySQL | `Kora-gym` |
-| Kora Academy | Football academy — evaluation + auditing | TypeScript, SQL | `Kora-gym` |
-| Android Food | Food delivery — auth/cart/orders | Flutter, Firebase | Private |
+| Project | Category | Highlights |
+|---|---|---|
+| **<img src="https://img.icons8.com/color/20/bug.png" width="16"/> OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Report • `Burp` `OWASP` [View Report](https://kero.10001mb.com/report.html) |
+| **<img src="https://img.icons8.com/color/20/dumbbell.png" width="16"/> Gym Academy System** | `Full Stack` | Members, subs, schedules • `Node.js` `MySQL` `RBAC` |
+| **<img src="https://img.icons8.com/color/20/football2.png" width="16"/> Kora Academy Platform** | `Full Stack` | Football academy • Auditing |
+| **<img src="https://img.icons8.com/color/20/meal.png" width="16"/> Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` |
+| **<img src="https://img.icons8.com/color/20/docker.png" width="16"/> Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
+| **<img src="https://img.icons8.com/color/20/temperature.png" width="16"/> Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → Dashboard` |
+| **<img src="https://img.icons8.com/color/20/arduino.png" width="16"/> Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` |
 
-**⚙️ DevOps**
-| Project | One-line | Tech | Link |
-|---|---|---|---|
-| Docker + Linux Pipeline | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` | Docker, Linux, Nginx | `koragym-dashboard` |
-
-**🤖 IoT**
-| Project | One-line | Tech | Link |
-|---|---|---|---|
-| Smart Environmental Monitoring | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` | ESP32, MQTT | `insight-ai` |
-| Arduino Sensor Lab | GPIO/Sensors, Embedded C | Arduino, C/C++ | Private |
+> 🔗 Detailed writeups: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
 
 ---
 
 ### 🧪 ENGINEERING LABS
-| [ SECURITY LAB ] | [ DEVELOPMENT LAB ] |
+| [ <img src="https://img.icons8.com/color/20/shield.png" width="14"/> SECURITY LAB ] | [ <img src="https://img.icons8.com/color/20/code.png" width="14"/> DEVELOPMENT LAB ] |
 |---|---|
 | Kali • Burp • OWASP • VulnHub | React • Node.js • Express • Databases |
-| [ DEVOPS LAB ] | [ HARDWARE LAB ] |
+| [ <img src="https://img.icons8.com/color/20/console.png" width="14"/> DEVOPS LAB ] | [ <img src="https://img.icons8.com/color/20/electronics.png" width="14"/> HARDWARE LAB ] |
 | Docker • Linux • CI/CD • Nginx | Arduino • ESP32 • Sensors • IoT |
 
 ---
@@ -181,6 +218,14 @@ ENVIRONMENT    LINUX
 MODE           ENGINEERING
 ```
 <img src="./assets/branding/system-status.svg" width="400" alt="Status" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <br/><sub>Light SVG — auto-updated daily</sub>
+</p>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D" width="800" />
+</p>
 
 ---
 
