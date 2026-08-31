@@ -101,6 +101,18 @@ Embedded:     Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KeroNaderDev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeroNaderDev&bg_color=020617&color=94a3b8&line=00d2ff&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
+</p>
+
 ---
 
 ### 📝 Latest Writeups
