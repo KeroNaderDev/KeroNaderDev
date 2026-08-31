@@ -32,8 +32,6 @@
 │ SYSTEM STATUS: ONLINE  ●                    │
 └─────────────────────────────────────────────┘
 ```
-<img src="./assets/hero/terminal.gif" width="640" alt="Terminal" />
-
 ---
 
 ### ✨ About Me — End-to-End Builder
@@ -128,35 +126,26 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 │   IoT    │
 └──────────┘
 ```
-<img src="./assets/architecture/pipeline.png" width="480" alt="Pipeline" />
-
 ---
 
 ### 🛡️ SECURITY OPERATIONS
 ```text
 RECON → SCANNING → ENUMERATION → VULNERABILITY → EXPLOITATION → ANALYSIS → REMEDIATION → REPORT
 ```
-<img src="./assets/security/security-network.png" width="600" alt="Security" />
 *Tools:* Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark, Gobuster, ffuf, SQLmap, OWASP, CVSS
 
 ### 💻 FULL STACK ENGINEERING
 ```text
 USER → FRONTEND → API → BACKEND → DATABASE → AUTH → DOCKER → DEPLOYMENT
 ```
-<img src="./assets/architecture/fullstack.png" width="600" alt="Fullstack" />
-
 ### ⚙️ DEVOPS / INFRASTRUCTURE
 ```text
 CODE → GITHUB → CI/CD → BUILD → TEST → DOCKER → LINUX → NGINX → SSL → DEPLOYMENT
 ```
-<img src="./assets/architecture/devops.png" width="600" alt="DevOps" />
-
 ### 🤖 IoT & EMBEDDED SYSTEMS
 ```text
 ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 ```
-<img src="./assets/architecture/iot.png" width="600" alt="IoT" />
-
 ---
 
 ### 🛠 Tech Stack — The Tools I Actually Use
@@ -229,8 +218,6 @@ BUILD STATUS   STABLE
 ENVIRONMENT    LINUX
 MODE           ENGINEERING
 ```
-<img src="./assets/branding/system-status.svg" width="400" alt="Status" />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
   <br/><sub>Light SVG — auto-updated daily</sub>
