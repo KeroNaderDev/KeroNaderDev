@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Kero%20Nader&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=62&animation=fadeIn" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=End-to-End+Systems+Builder;ESP32+%E2%86%92+Sensors+%E2%86%92+Wi-Fi+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Dashboard+%E2%86%92+Security+Audit;Build+%E2%86%92+Deploy+%E2%86%92+Connect+Hardware+%E2%86%92+Secure" alt="Typing SVG" />
 </p>
@@ -14,8 +12,7 @@
   <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-0f172a?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/kero-nader-98732b288/"><img src="https://img.shields.io/badge/LinkedIn-Kero_Nader-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:keroonader073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff3b5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views" />
-</p>
+  </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
@@ -107,16 +104,8 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ### 📊 GitHub Live — Real-Time Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroNaderDev&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroNaderDev&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroNaderDev&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroNaderDev&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Streak" height="160" />
-  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views+HD" alt="Views" />
-</p>
+  </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
@@ -129,7 +118,6 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ### 🧪 My Labs
 
 <p align="center">
-  <img src="https://kero.10001mb.com/topics/docker-pipeline.svg" width="160" alt="DevOps Lab" />
   <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="160" alt="Hardware Lab" />
 </p>
 
@@ -168,6 +156,4 @@ More on 👉 [kero.10001mb.com/blog](https://kero.10001mb.com/blog/?lang=en)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=13&fontColor=94a3b8&animation=fadeIn" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=13&fontColor=94a3b8&animation=fadeIn" />
