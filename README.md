@@ -164,29 +164,6 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ---
 
-### 🚀 Featured Projects — Content-Specific
-
-<p align="center">
-  <img src="https://kero.10001mb.com/food_delivery_app.png" width="170" alt="Food Delivery" />
-  <img src="https://kero.10001mb.com/gym_management_system.png" width="170" alt="Gym System" />
-  <img src="https://kero.10001mb.com/football_academy_system.png" width="170" alt="Kora Academy" />
-  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="170" alt="ESP32 IoT" />
-</p>
-
-| Project | Category | Highlights |
-|---|---|---|
-| **<img src="https://img.icons8.com/color/20/bug.png" width="16"/> OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Report • `Burp` `OWASP` [View Report](https://kero.10001mb.com/report.html) |
-| **<img src="https://img.icons8.com/color/20/dumbbell.png" width="16"/> Gym Academy System** | `Full Stack` | Members, subs, schedules • `Node.js` `MySQL` `RBAC` |
-| **<img src="https://img.icons8.com/color/20/football2.png" width="16"/> Kora Academy Platform** | `Full Stack` | Football academy • Auditing |
-| **<img src="https://img.icons8.com/color/20/meal.png" width="16"/> Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` |
-| **<img src="https://img.icons8.com/color/20/docker.png" width="16"/> Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
-| **<img src="https://img.icons8.com/color/20/temperature.png" width="16"/> Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → Dashboard` |
-| **<img src="https://img.icons8.com/color/20/arduino.png" width="16"/> Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` |
-
-> 🔗 Detailed writeups: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
-
----
-
 ### 🧪 ENGINEERING LABS
 | [ <img src="https://img.icons8.com/color/20/shield.png" width="14"/> SECURITY LAB ] | [ <img src="https://img.icons8.com/color/20/code.png" width="14"/> DEVELOPMENT LAB ] |
 |---|---|
