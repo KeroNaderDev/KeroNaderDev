@@ -50,7 +50,6 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 
 **Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
 
-
 ### 📊 Complete Skills Overview — All Data Professional
 
 | Domain | Skills & Technologies |
@@ -61,7 +60,6 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 | **DevOps** | Linux, Docker, Git, GitHub Actions, CI/CD, Nginx, Deployment, Automation |
 | **Cloud** | Linux, Docker, Nginx, CI/CD, Deployment, Infrastructure |
 | **IoT & Embedded** | ESP32, Arduino, C/C++, Sensors, MQTT, GPIO, UART, I2C, SPI, Embedded Systems, Hardware Integration |
-
 
 <p align="center"><img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="600" alt="Pipeline Diagram" /></p>
 
@@ -237,12 +235,7 @@ MODE           ENGINEERING
   <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
   <br/><sub>Light SVG — auto-updated daily</sub>
 </p>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D" width="800" />
-</p>
-
 ---
-
 
 <details>
 <summary>📦 All Repositories (14) — Full Data</summary>
@@ -266,7 +259,6 @@ MODE           ENGINEERING
 
 *All private repos include architecture + security notes in README — ready to make public for showcase.*
 </details>
-
 
 ### 📫 Let's Connect
 *Interested in Cybersecurity, Full Stack, DevOps, Backend, IoT/Embedded roles.*
