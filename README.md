@@ -1,154 +1,143 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Kero%20Nader&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=62&animation=fadeIn" />
+<!-- 
+  README.md احترافي لـ Kero Nader — Dark Theme
+  كل قسم عليه تعليق عربي عشان تعدل بسهولة — دور على PLACEHOLDER و EDIT HERE
+-->
 
+<!-- ========== 1. بانر أنيميشن 3D + ترحيب ديناميكي ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=240&section=header&text=Kero%20Nader&fontSize=52&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=65&animation=fadeIn&fontAlignY=38" alt="Banner" />
+
+<!-- تايبينغ أنيميشن — EDIT HERE: غير الأسطر اللي بتتكتب -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=End-to-End+Systems+Builder;ESP32+%E2%86%92+Sensors+%E2%86%92+Wi-Fi+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Dashboard+%E2%86%92+Security+Audit;Build+%E2%86%92+Deploy+%E2%86%92+Connect+Hardware+%E2%86%92+Secure" alt="Typing SVG" />
+  <a href="https://kero.10001mb.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A3%D9%86%D8%A7+Kero+Nader+%F0%9F%91%8B;Cybersecurity+%7C+Full+Stack+%7C+DevOps+%7C+Embedded+%26+IoT;Build+%E2%86%92+Deploy+%E2%86%92+Connect+Hardware+%E2%86%92+Secure;ESP32+%E2%86%92+Sensors+%E2%86%92+Wi-Fi+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Dashboard" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="center">From Hardware to Cloud — One Pipeline, Full Control</h3>
 <p align="center">
-  <em>I build, secure, deploy, and experiment with modern digital systems — from web apps and cloud infra to embedded devices.</em>
-</p>
-
-<p align="center">
+  <!-- PLACEHOLDER: غير اللينكات هنا — EDIT HERE -->
   <a href="https://kero.10001mb.com"><img src="https://img.shields.io/badge/Portfolio-kero.10001mb.com-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-0f172a?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/kero-nader-98732b288/"><img src="https://img.shields.io/badge/LinkedIn-Kero_Nader-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:keroonader073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff3b5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views" alt="Views" />
 </p>
 
+<!-- ========== 3D Illustration بانر ثانوي ========== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-React%20%7C%20Node.js-00d2ff?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20CI%2FCD-10b981?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-Arduino%20%7C%20ESP32-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b74551-32c3-40ed-9434-07a3e030a367.gif" width="900" alt="3D Banner Animation" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Coding animation" />
-
-I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of **OrcaTech**
-
-> Instead of being *just* a web dev or *just* a pentester, I connect the dots: **React app → Docker → Linux → ESP32 → REST API → DB → Dashboard → Pentest**. That **End-to-End** perspective is my edge.
-
-- 🔒 **30+ Systems Secured** — Pentests & vuln assessments
-- 🚀 **15+ Apps & Systems Built** — Full stack + IoT + dashboards
-- 🧪 **5+ Years Hands-On** — Labs, production & hardware
-- 📍 **Cairo, Egypt** | 🏢 **OrcaTech** | 🌐 [kero.10001mb.com](https://kero.10001mb.com)
-
-<br clear="right"/>
-
----
-
-### 🎯 Four Pillars, One Pipeline
-
-| Pillar | Focus | Key Skills |
-|---|---|---|
-| **🔴 Cybersecurity** <br/> *Offensive & Defensive* | Pentesting • Web Security • Vuln Assessment | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top10` `Red Team` `CVSS` |
-| **🔵 Full Stack** <br/> *Frontend • Backend • DB* | Real apps, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
-| **🟢 DevOps & Cloud** <br/> *Build → Ship → Run* | GitHub → Production | `Linux` `Git` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL` |
-| **🟠 Embedded & IoT** <br/> *Where SW meets HW* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` |
-
-**Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
-
----
-
-### 🛠️ Tech Stack — The Tools I Actually Use
-
+<!-- ========== 2. إحصائيات متحركة — Dark Theme ========== -->
+<!-- EDIT HERE: كلها بتتحدث تلقائياً من GitHub API -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,raspberrypi,bash" alt="Tech stack" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroNaderDev&theme=tokyonight" height="160" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroNaderDev&theme=tokyonight" height="160" alt="Repos per Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroNaderDev&theme=tokyonight" height="160" alt="Most Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroNaderDev&theme=tokyonight&utcOffset=2" height="160" alt="Productive Time" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Streak" height="170" />
 </p>
 
-```text
-Languages:  Python • JavaScript • C/C++ • SQL • Bash • HTML • CSS
-Frontend:   React • Tailwind • Responsive • UI/UX
-Backend:    Node.js • Express • REST API • JWT • RBAC
-Database:   MySQL • PostgreSQL • MongoDB • Firebase
-Security:   Burp • Nmap • Metasploit • Wireshark • Gobuster • ffuf • SQLmap
-DevOps:     Git • GitHub • Docker • Linux • CI/CD • Nginx • Actions
-Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
-```
-
 ---
 
-### 🚀 Projects — From Lab to Production
-
-| Project | Category | Stack & Highlights |
-|---|---|---|
-| **OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Exploitation → Reporting • `Burp` `OWASP` [View Report](https://kero.10001mb.com/projects/juice-shop-pentest.html) |
-| **Gym Academy System** | `Full Stack` | Members, subs, schedules, payments • `Node.js` `MySQL` `RBAC` |
-| **Kora Academy Platform** | `Full Stack` | Football academy • Evaluation & financial auditing |
-| **Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` • Auth, cart, orders, realtime DB |
-| **Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
-| **Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` |
-| **Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` • Data collection |
-
-> 🔗 Detailed writeups: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
-
----
-
-### 📊 GitHub Live — Real-Time Stats
-
+<!-- ========== 3. شهادات المهارات — Hover Animation ========== -->
+<!-- EDIT HERE: ضيف أو شيل أي تكنولوجيا من القائمة — Skillicons + Simple Icons -->
+<h3 align="center">🛠️ Tech Stack — Hover to Scale</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroNaderDev&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroNaderDev&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroNaderDev&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroNaderDev&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Streak" height="160" />
-  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views+HD" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <!-- الصف الأول: اللغات -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,react,tailwind,nodejs,express" alt="Frontend" /></a>
   <br/>
-  <em style="color:#64748b;font-size:11px">🐍 Snake animation — contributions graph (auto-updated daily via GitHub Actions)</em>
+  <!-- الصف الثاني: Backend & DB & DevOps & Embedded -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,docker,linux,arduino,raspberrypi,bash,github" alt="Backend & Tools" /></a>
 </p>
 
----
+<!-- أيقونات إضافية بـ simple-icons مع Hover Scale — تقدر تغير الألوان -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
-### 🧪 My Labs
-
-| Lab | Environment |
-|---|---|
-| **🔴 Cyber Lab** | Kali • Burp • OWASP Labs • VulnHub |
-| **🔵 Dev Lab** | React • Node.js • Express • MySQL/MongoDB |
-| **🟢 DevOps Lab** | Docker • Linux (Ubuntu/CentOS) • CI/CD • Nginx |
-| **🟠 Hardware Lab** | Arduino Uno • ESP32 • Sensors Kit • Breadboard & IoT |
-
----
-
-### 📝 Latest Writeups
-
-- [OWASP Juice Shop — Full Pentest Writeup](https://kero.10001mb.com/report.html) `Cybersecurity`
-- [From ESP32 to Cloud Dashboard](https://kero.10001mb.com/blog/embedded-iot-future.html) `IoT`
-- [Docker for Developers — Zero to Live](https://kero.10001mb.com/blog/docker-for-developers.html) `DevOps`
-- [Linux Server Hardening — 5 Steps](https://kero.10001mb.com/blog/linux-server-hardening.html) `DevOps`
-
-More on 👉 [kero.10001mb.com/blog](https://kero.10001mb.com/blog/?lang=en)
+<style>
+/* تعليق: ده CSS للـ Hover Animation — GitHub بيدعم HTML داخل Markdown */
+img:hover { transform: scale(1.08); transition: transform 0.2s; }
+</style>
 
 ---
 
-### 📫 Contact & Hire
+<!-- ========== 4. مشاريع مميزة — 3 فقط مع صور ========== -->
+<!-- EDIT HERE: غير الصور والوصف واللينكات — PLACEHOLDER لكل مشروع -->
+<h3 align="center">🚀 Featured Projects — 3 Highlights</h3>
 
-| Channel | Link |
-|---|---|
-| 🌐 Portfolio | [kero.10001mb.com](https://kero.10001mb.com) |
-| 💼 LinkedIn | [linkedin.com/in/kero-nader-98732b288](https://www.linkedin.com/in/kero-nader-98732b288/) |
-| 🐙 GitHub | [github.com/KeroNaderDev](https://github.com/KeroNaderDev) |
-| 📧 Email | [keroonader073@gmail.com](mailto:keroonader073@gmail.com) |
-| 📍 Location | Cairo, Egypt |
+<table align="center">
+<tr>
+<td width="33%" align="center">
+  <a href="https://kero.10001mb.com/projects/juice-shop-pentest.html">
+    <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/main/assets/juice-shop.png" width="260" height="150" alt="Juice Shop" onerror="this.src='https://user-images.githubusercontent.com/74038190/212257467-875e32c7-8b9b-442b-83f0-5e6b3b38e557.gif'" />
+    <br/><strong>OWASP Juice Shop — Pentest</strong>
+  </a>
+  <br/><sub>Recon → Exploitation → Report • Burp • OWASP</sub>
+  <br/>
+  <a href="https://kero.10001mb.com/report.html"><img src="https://img.shields.io/badge/Demo-Live-00d2ff?style=flat-square" /></a>
+  <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/Repo-Private-0f172a?style=flat-square" /></a>
+</td>
+<td width="33%" align="center">
+  <a href="https://kero.10001mb.com/projects/kora-platform.html">
+    <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/main/assets/kora.png" width="260" height="150" alt="Kora Gym" onerror="this.src='https://user-images.githubusercontent.com/74038190/212257465-7ede367b-81b9-4374-94b9-3a6b0e75a388.gif'" />
+    <br/><strong>Kora Academy Platform</strong>
+  </a>
+  <br/><sub>Football academy • Evaluation • Financial Auditing</sub>
+  <br/>
+  <a href="https://kero.10001mb.com/#projects"><img src="https://img.shields.io/badge/Demo-Live-10b981?style=flat-square" /></a>
+  <a href="https://github.com/KeroNaderDev/Kora-gym"><img src="https://img.shields.io/badge/Repo-View-0f172a?style=flat-square" /></a>
+</td>
+<td width="33%" align="center">
+  <a href="https://kero.10001mb.com/projects/esp32-monitoring.html">
+    <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/main/assets/esp32.png" width="260" height="150" alt="ESP32" onerror="this.src='https://user-images.githubusercontent.com/74038190/212257454-4301a739-2fd0-4e3b-b4e8-50d3f4ff33c0.gif'" />
+    <br/><strong>Smart ESP32 Monitoring</strong>
+  </a>
+  <br/><sub>ESP32 + DHT22 → Wi-Fi → API → Dashboard</sub>
+  <br/>
+  <a href="https://kero.10001mb.com/dashboard.html"><img src="https://img.shields.io/badge/Demo-Dashboard-f59e0b?style=flat-square" /></a>
+  <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/Repo-Private-0f172a?style=flat-square" /></a>
+</td>
+</tr>
+</table>
 
-> **Available for:** Secure Web Apps • Automated Infrastructure • IoT Systems • Security Assessments  
-> *Let's build something Secure, Scalable, and Connected.*
-
----
+<!-- ========== لمسة فنية: Snake + 3D Contrib + Visitor Counter ========== -->
+<h3 align="center">🐍 3D & Snake — لمسة فنية</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=13&fontColor=94a3b8&animation=fadeIn" />
+  <!-- Snake المتحرك — بيتحدث يومياً -->
+  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <br/><sub>Snake animation — contributions graph (auto-updated daily)</sub>
 </p>
+
+<p align="center">
+  <!-- 3D Contribution — EDIT HERE: لو عايز تغير اللون غير green لـ blue/purple -->
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contrib" width="900" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'" />
+  <span style="display:none; color:#94a3b8; font-size:11px">3D Contrib will appear after first 3D workflow run — see Actions tab</span>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=for-the-badge&color=0f172a&label=Visitors" alt="Visitor Counter" />
+  <img src="https://img.shields.io/github/followers/KeroNaderDev?label=Followers&style=for-the-badge&color=00d2ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/KeroNaderDev?label=Stars&style=for-the-badge&color=f59e0b" alt="Stars" />
+</p>
+
+---
+
+<!-- ========== Footer ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=12&fontColor=94a3b8&animation=fadeIn" alt="Footer" />
+
+<!-- 
+  نصيحة ذهبية: أي PLACEHOLDER فوق تقدر تغيره — دور على EDIT HERE
+  الألوان: غير 00d2ff, 3a7bd5, 0f172a, ff3b5c في الروابط لتغيير الثيم
+-->
