@@ -1,7 +1,5 @@
 
 ![Main Banner](./banner.svg)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=160&section=header&text=Kero%20Nader&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20Full%20Stack%20%7C%20DevOps%20%7C%20Embedded%20and%20IoT&descAlignY=55&descAlign=50&fontAlignY=38&animation=fadeIn" />
-
 <p align="center"><b>Cybersecurity Engineer | Full Stack Developer | DevOps & IoT</b></p>
 <p align="center">
   <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
