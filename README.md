@@ -104,10 +104,6 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ### 📊 GitHub Live — Real-Time Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Streak" height="160" />
-  </p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
   <br/>
   <em style="color:#64748b;font-size:11px">🐍 Snake animation — contributions graph (auto-updated daily via GitHub Actions)</em>
