@@ -51,10 +51,10 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 
 | Pillar | Focus | Key Skills |
 |---|---|---|
-| **🔴 Cybersecurity** <br/> *Offensive & Defensive* | Pentesting • Web Security • Vuln Assessment | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top10` `Red Team` `CVSS` |
-| **🔵 Full Stack** <br/> *Frontend • Backend • DB* | Real apps, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
-| **🟢 DevOps & Cloud** <br/> *Build → Ship → Run* | GitHub → Production | `Linux` `Git` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL` |
-| **🟠 Embedded & IoT** <br/> *Where SW meets HW* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` |
+| **<img src="https://img.icons8.com/color/24/shield.png" width="18" alt="Cyber"/> Cybersecurity** <br/> *Offensive & Defensive* | Pentesting • Web Security • Vuln Assessment | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top10` `Red Team` `CVSS` |
+| **<img src="https://img.icons8.com/color/24/source-code.png" width="18" alt="Code"/> Full Stack** <br/> *Frontend • Backend • DB* | Real apps, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
+| **<img src="https://img.icons8.com/color/24/server.png" width="18" alt="DevOps"/> DevOps & Cloud** <br/> *Build → Ship → Run* | GitHub → Production | `Linux` `Git` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL` |
+| **<img src="https://img.icons8.com/color/24/processor.png" width="18" alt="Embedded"/> Embedded & IoT** <br/> *Where SW meets HW* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` |
 
 **Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
 
@@ -89,13 +89,13 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 
 | Project | Category | Stack & Highlights |
 |---|---|---|
-| **OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Exploitation → Reporting • `Burp` `OWASP` [View Report](https://kero.10001mb.com/projects/juice-shop-pentest.html) |
-| **Gym Academy System** | `Full Stack` | Members, subs, schedules, payments • `Node.js` `MySQL` `RBAC` |
-| **Kora Academy Platform** | `Full Stack` | Football academy • Evaluation & financial auditing |
-| **Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` • Auth, cart, orders, realtime DB |
-| **Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
-| **Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` |
-| **Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` • Data collection |
+| <img src="https://img.icons8.com/color/20/bug.png" width="16" alt=""/> **OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Exploitation → Reporting • `Burp` `OWASP` [View Report](https://kero.10001mb.com/projects/juice-shop-pentest.html) |
+| <img src="https://img.icons8.com/color/20/dumbbell.png" width="16" alt=""/> **Gym Academy System** | `Full Stack` | Members, subs, schedules, payments • `Node.js` `MySQL` `RBAC` |
+| <img src="https://img.icons8.com/color/20/football2.png" width="16" alt=""/> **Kora Academy Platform** | `Full Stack` | Football academy • Evaluation & financial auditing |
+| <img src="https://img.icons8.com/color/20/meal.png" width="16" alt=""/> **Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` • Auth, cart, orders, realtime DB |
+| <img src="https://img.icons8.com/color/20/docker.png" width="16" alt=""/> **Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
+| <img src="https://img.icons8.com/color/20/temperature.png" width="16" alt=""/> **Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` |
+| <img src="https://img.icons8.com/color/20/arduino.png" width="16" alt=""/> **Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` • Data collection |
 
 > 🔗 Detailed writeups: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
 
@@ -108,15 +108,15 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ### 🧪 My Labs
 
 <p align="center">
-  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="160" alt="Hardware Lab" />
+  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="160" alt="<img src="https://img.icons8.com/color/20/electronics.png" width="14"/> Hardware Lab" />
 </p>
 
 | Lab | Environment |
 |---|---|
-| **🔴 Cyber Lab** | Kali • Burp • OWASP Labs • VulnHub |
-| **🔵 Dev Lab** | React • Node.js • Express • MySQL/MongoDB |
-| **🟢 DevOps Lab** | Docker • Linux (Ubuntu/CentOS) • CI/CD • Nginx |
-| **🟠 Hardware Lab** | Arduino Uno • ESP32 • Sensors Kit • Breadboard & IoT |
+| **🔴 <img src="https://img.icons8.com/color/20/shield.png" width="14"/> Cyber Lab** | Kali • Burp • OWASP Labs • VulnHub |
+| **🔵 <img src="https://img.icons8.com/color/20/code.png" width="14"/> Dev Lab** | React • Node.js • Express • MySQL/MongoDB |
+| **🟢 <img src="https://img.icons8.com/color/20/console.png" width="14"/> DevOps Lab** | Docker • Linux (Ubuntu/CentOS) • CI/CD • Nginx |
+| **🟠 <img src="https://img.icons8.com/color/20/electronics.png" width="14"/> Hardware Lab** | Arduino Uno • ESP32 • Sensors Kit • Breadboard & IoT |
 
 ---
 
