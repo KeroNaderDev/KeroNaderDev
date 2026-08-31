@@ -28,7 +28,7 @@
 
 ### ✨ About Me
 
-<img align="right" src="https://skillicons.dev/icons?i=js,react,nodejs,python,linux,docker" width="320" alt="Tech stack light" />
+<img align="right" src="https://kero.10001mb.com/kero2.jpg" width="200" style="border-radius:50%;border:3px solid #00d2ff" alt="Kero Nader" />
 
 I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of **OrcaTech**
 
@@ -44,6 +44,13 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 ---
 
 ### 🎯 Four Pillars, One Pipeline
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-00d2ff?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-10b981?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
 | Pillar | Focus | Key Skills |
 |---|---|---|
@@ -75,6 +82,13 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ---
 
 ### 🚀 Projects — From Lab to Production
+
+<p align="center">
+  <img src="https://kero.10001mb.com/food_delivery_app.png" width="170" alt="Food Delivery — Flutter + Firebase" />
+  <img src="https://kero.10001mb.com/gym_management_system.png" width="170" alt="Gym Management — Node.js + MySQL" />
+  <img src="https://kero.10001mb.com/football_academy_system.png" width="170" alt="Kora Academy — Football Platform" />
+  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="170" alt="ESP32 IoT — Sensors → Dashboard" />
+</p>
 
 | Project | Category | Stack & Highlights |
 |---|---|---|
@@ -113,6 +127,11 @@ Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ---
 
 ### 🧪 My Labs
+
+<p align="center">
+  <img src="https://kero.10001mb.com/topics/docker-pipeline.svg" width="160" alt="DevOps Lab" />
+  <img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="160" alt="Hardware Lab" />
+</p>
 
 | Lab | Environment |
 |---|---|
