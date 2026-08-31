@@ -49,6 +49,20 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 - 📍 **Cairo, Egypt** | 🏢 **OrcaTech** | 🌐 [kero.10001mb.com](https://kero.10001mb.com)
 
 **Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
+
+
+### 📊 Complete Skills Overview — All Data Professional
+
+| Domain | Skills & Technologies |
+|---|---|
+| **Cybersecurity** | Web Application Security, OWASP, Burp Suite, Nmap, Metasploit, Wireshark, Gobuster, ffuf, SQLmap, Vulnerability Assessment |
+| **Full Stack** | React, JavaScript, HTML, CSS, Tailwind, Node.js, Express, REST APIs, JWT, RBAC |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, RBAC, API Security, Validation |
+| **DevOps** | Linux, Docker, Git, GitHub Actions, CI/CD, Nginx, Deployment, Automation |
+| **Cloud** | Linux, Docker, Nginx, CI/CD, Deployment, Infrastructure |
+| **IoT & Embedded** | ESP32, Arduino, C/C++, Sensors, MQTT, GPIO, UART, I2C, SPI, Embedded Systems, Hardware Integration |
+
+
 <p align="center"><img src="https://kero.10001mb.com/topics/esp32-iot.svg" width="600" alt="Pipeline Diagram" /></p>
 
 <br clear="right"/>
@@ -228,6 +242,31 @@ MODE           ENGINEERING
 </p>
 
 ---
+
+
+<details>
+<summary>📦 All Repositories (14) — Full Data</summary>
+
+| Repository | Description | Language | Visibility | Link |
+|---|---|---|---|---|
+| `KeroNaderDev` | Profile README — Cyberpunk Portfolio | — | Public | [View](https://github.com/KeroNaderDev/KeroNaderDev) |
+| `Kora-gym` | Kora Academy Platform — Football academy | HTML | Private | [View](https://github.com/KeroNaderDev/Kora-gym) |
+| `koragym` | Complete Gym Management System | TypeScript | Private | [View](https://github.com/KeroNaderDev/koragym) |
+| `webkoragym` | WebKoraGym — Gym Academy web platform | TypeScript | Private | [View](https://github.com/KeroNaderDev/webkoragym) |
+| `koragym-dashboard` | Admin dashboard — Analytics/RBAC | TypeScript | Private | [View](https://github.com/KeroNaderDev/koragym-dashboard) |
+| `insight-ai` | ESP32 Environmental Monitoring — AI | TypeScript | Private | [View](https://github.com/KeroNaderDev/insight-ai) |
+| `locaandcam` | Location & Camera — ESP32 IoT | HTML | Private | [View](https://github.com/KeroNaderDev/locaandcam) |
+| `api-mask` | Secure API Proxy & Masking | JavaScript | Private | [View](https://github.com/KeroNaderDev/api-mask) |
+| `smm-bot` | Telegram SMM Bot — Foollo API | Python | Private | [View](https://github.com/KeroNaderDev/smm-bot) |
+| `saasagnet` | SaaS Agent Platform — AI Automation | TypeScript | Private | [View](https://github.com/KeroNaderDev/saasagnet) |
+| `mina` | Mina Travel — Booking platform | — | Private | [View](https://github.com/KeroNaderDev/mina) |
+| `BotWhatsap` | WhatsApp Automation Bot | — | Private | [View](https://github.com/KeroNaderDev/BotWhatsap) |
+| `mast7elgarema` | Management System — Full Stack | JavaScript | Private | [View](https://github.com/KeroNaderDev/mast7elgarema) |
+| `KerolosNader19` | Legacy Profile README | — | Public | [View](https://github.com/KeroNaderDev/KerolosNader19) |
+
+*All private repos include architecture + security notes in README — ready to make public for showcase.*
+</details>
+
 
 ### 📫 Let's Connect
 *Interested in Cybersecurity, Full Stack, DevOps, Backend, IoT/Embedded roles.*
