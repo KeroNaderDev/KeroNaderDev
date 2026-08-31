@@ -1,39 +1,45 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=150&section=header&text=Kero%20Nader&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Kero%20Nader&fontSize=48&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Embedded%20%26%20IoT&descAlignY=62&animation=fadeIn" />
 
-<h3 align="center">End-to-End Systems Builder — From Hardware to Cloud</h3>
 <p align="center">
-  <em>I build → deploy → connect hardware → secure. A single pipeline from ESP32 sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=End-to-End+Systems+Builder;ESP32+%E2%86%92+Sensors+%E2%86%92+Wi-Fi+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Dashboard+%E2%86%92+Security+Audit;Build+%E2%86%92+Deploy+%E2%86%92+Connect+Hardware+%E2%86%92+Secure" alt="Typing SVG" />
+</p>
+
+<h3 align="center">From Hardware to Cloud — One Pipeline, Full Control</h3>
+<p align="center">
+  <em>I build, secure, deploy, and experiment with modern digital systems — from web apps and cloud infra to embedded devices.</em>
 </p>
 
 <p align="center">
   <a href="https://kero.10001mb.com"><img src="https://img.shields.io/badge/Portfolio-kero.10001mb.com-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-0f172a?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/kero-nader-98732b288/"><img src="https://img.shields.io/badge/LinkedIn-Kero_Nader-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:keroonader073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff3b5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff" />
+  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-ff3b5c?style=flat-square&logo=shield" />
-  <img src="https://img.shields.io/badge/Full%20Stack-React%20%7C%20Node.js-00d2ff?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20CI%2FCD-10b981?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Embedded-Arduino%20%7C%20ESP32-f59e0b?style=flat-square&logo=arduino" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-React%20%7C%20Node.js-00d2ff?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Linux%20%7C%20CI%2FCD-10b981?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-Arduino%20%7C%20ESP32-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-I'm **Kero Nader**, a technology enthusiast from **Cairo, Egypt** — Member of **OrcaTech**.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Coding animation" />
 
-> Instead of being *just* a web developer or *just* a pentester, I connect the dots: I can build a Full Stack app, containerize it with Docker, deploy it on a Linux server, connect an ESP32 sensor that feeds data via REST API, and then test the whole pipeline for vulnerabilities.
+I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of **OrcaTech**
 
-**That End-to-End perspective is what makes my work different.** My goal: *build useful systems, make them run anywhere, and make them secure.*
+> Instead of being *just* a web dev or *just* a pentester, I connect the dots: **React app → Docker → Linux → ESP32 → REST API → DB → Dashboard → Pentest**. That **End-to-End** perspective is my edge.
 
-- 🔒 **30+ Systems Secured** — Penetration tests & vulnerability assessments
+- 🔒 **30+ Systems Secured** — Pentests & vuln assessments
 - 🚀 **15+ Apps & Systems Built** — Full stack + IoT + dashboards
-- 🧪 **5+ Years Hands-On** — Labs, production, and hardware
+- 🧪 **5+ Years Hands-On** — Labs, production & hardware
+- 📍 **Cairo, Egypt** | 🏢 **OrcaTech** | 🌐 [kero.10001mb.com](https://kero.10001mb.com)
 
-📍 Cairo, Egypt | 🏢 OrcaTech | 🌐 [kero.10001mb.com](https://kero.10001mb.com) | 📧 keroonader073@gmail.com
+<br clear="right"/>
 
 ---
 
@@ -41,10 +47,10 @@ I'm **Kero Nader**, a technology enthusiast from **Cairo, Egypt** — Member of 
 
 | Pillar | Focus | Key Skills |
 |---|---|---|
-| **🔴 Cybersecurity** <br/> *Offensive & Defensive* | Pentesting, Web App Security, Vulnerability Assessment | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top 10` `Red Team` `CVSS` `Recon` `Exploitation` `PoC` |
-| **🔵 Full Stack** <br/> *Frontend • Backend • DB* | Real applications, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST API` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
-| **🟢 DevOps & Cloud** <br/> *Build → Ship → Run* | From GitHub to production | `Linux` `Git/GitHub` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL/TLS` `Monitoring` |
-| **🟠 Embedded & IoT** <br/> *Where Software Meets Hardware* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` `IoT Pipeline` |
+| **🔴 Cybersecurity** <br/> *Offensive & Defensive* | Pentesting • Web Security • Vuln Assessment | `Kali` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `OWASP Top10` `Red Team` `CVSS` |
+| **🔵 Full Stack** <br/> *Frontend • Backend • DB* | Real apps, not demos | `React` `HTML5` `CSS3` `JS ES6+` `Node.js` `Express` `REST` `JWT` `MySQL` `PostgreSQL` `MongoDB` `Firebase` |
+| **🟢 DevOps & Cloud** <br/> *Build → Ship → Run* | GitHub → Production | `Linux` `Git` `Docker` `Docker Compose` `CI/CD` `GitHub Actions` `Nginx` `Bash` `SSL` |
+| **🟠 Embedded & IoT** <br/> *Where SW meets HW* | Sensors → Cloud dashboards | `Arduino` `ESP32` `Sensors` `GPIO` `UART/I2C/SPI` `C/C++` `Wi-Fi/Bluetooth` `MQTT` |
 
 **Pipeline:** `ESP32 → Sensors → Wi-Fi → API → Database → Web Dashboard → Security Audit`
 
@@ -52,14 +58,18 @@ I'm **Kero Nader**, a technology enthusiast from **Cairo, Egypt** — Member of 
 
 ### 🛠️ Tech Stack — The Tools I Actually Use
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,raspberrypi,bash" alt="Tech stack" />
+</p>
+
 ```text
-Languages:    Python • JavaScript • C/C++ • SQL • Bash • HTML • CSS
-Frontend:     React • Tailwind • Responsive Design • UI/UX
-Backend:      Node.js • Express.js • REST API • JWT Auth • RBAC
-Database:     MySQL • PostgreSQL • MongoDB • Firebase
-Security:     Burp Suite • Nmap • Metasploit • Wireshark • Gobuster • ffuf • SQLmap
-DevOps:       Git • GitHub • Docker • Linux • CI/CD • Nginx • GitHub Actions
-Embedded:     Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
+Languages:  Python • JavaScript • C/C++ • SQL • Bash • HTML • CSS
+Frontend:   React • Tailwind • Responsive • UI/UX
+Backend:    Node.js • Express • REST API • JWT • RBAC
+Database:   MySQL • PostgreSQL • MongoDB • Firebase
+Security:   Burp • Nmap • Metasploit • Wireshark • Gobuster • ffuf • SQLmap
+DevOps:     Git • GitHub • Docker • Linux • CI/CD • Nginx • Actions
+Embedded:   Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 ```
 
 ---
@@ -68,15 +78,37 @@ Embedded:     Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 
 | Project | Category | Stack & Highlights |
 |---|---|---|
-| **OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Exploitation → Professional Reporting • `Burp Suite` `OWASP` [View Report](https://kero.10001mb.com/projects/juice-shop-pentest.html) |
-| **Gym Academy System** | `Full Stack` | Members, subscriptions, schedules, payments • `Node.js` `MySQL` `RBAC` |
-| **Kora Academy Platform** | `Full Stack` | Football academy • Player evaluation & financial auditing |
-| **Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` • Auth, cart, orders, real-time DB |
-| **Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL → Monitoring` |
-| **Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` (Temp/Humidity/Status) |
-| **Arduino Sensor Monitoring Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` • Data collection & automation |
+| **OWASP Juice Shop — Web Pentest** | `Cybersecurity` | Recon → Exploitation → Reporting • `Burp` `OWASP` [View Report](https://kero.10001mb.com/projects/juice-shop-pentest.html) |
+| **Gym Academy System** | `Full Stack` | Members, subs, schedules, payments • `Node.js` `MySQL` `RBAC` |
+| **Kora Academy Platform** | `Full Stack` | Football academy • Evaluation & financial auditing |
+| **Android Food — Food Delivery** | `Full Stack` | `Flutter` `Firebase` • Auth, cart, orders, realtime DB |
+| **Deployment Pipeline — Docker + Linux** | `DevOps` | `GitHub → CI/CD → Docker → Linux → Nginx → SSL` |
+| **Smart Environmental Monitoring — ESP32** | `IoT` | `ESP32 + DHT22 → Wi-Fi → API → DB → Dashboard` |
+| **Arduino Sensor Lab** | `Embedded` | `Arduino` `C/C++` `GPIO` `I2C/SPI` • Data collection |
 
-> 🔗 Detailed writeups & demos: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
+> 🔗 Detailed writeups: **[kero.10001mb.com/#projects](https://kero.10001mb.com/#projects)**
+
+---
+
+### 📊 GitHub Live — Real-Time Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeroNaderDev&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeroNaderDev&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeroNaderDev&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeroNaderDev&theme=tokyonight&utcOffset=2" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b" alt="Streak" height="160" />
+  <img src="https://komarev.com/ghpvc/?username=KeroNaderDev&style=flat-square&color=00d2ff&label=Profile+Views+HD" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <br/>
+  <em style="color:#64748b;font-size:11px">🐍 Snake animation — contributions graph (auto-updated daily via GitHub Actions)</em>
+</p>
 
 ---
 
@@ -88,30 +120,6 @@ Embedded:     Arduino • ESP32 • Sensors • GPIO • MQTT • IoT
 | **🔵 Dev Lab** | React • Node.js • Express • MySQL/MongoDB |
 | **🟢 DevOps Lab** | Docker • Linux (Ubuntu/CentOS) • CI/CD • Nginx |
 | **🟠 Hardware Lab** | Arduino Uno • ESP32 • Sensors Kit • Breadboard & IoT |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeroNaderDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00d2ff&text_color=f1f5f9&icon_color=00d2ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeroNaderDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00d2ff&text_color=94a3b8" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeroNaderDev&theme=tokyonight&hide_border=true&background=020617&ring=00d2ff&fire=ff3b5c&currStreakLabel=00d2ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KeroNaderDev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeroNaderDev&bg_color=020617&color=94a3b8&line=00d2ff&point=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" />
-</p>
 
 ---
 
@@ -142,5 +150,5 @@ More on 👉 [kero.10001mb.com/blog](https://kero.10001mb.com/blog/?lang=en)
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=80&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=14&fontColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=13&fontColor=94a3b8&animation=fadeIn" />
 </p>
