@@ -219,7 +219,7 @@ ENVIRONMENT    LINUX
 MODE           ENGINEERING
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KeroNaderDev/KeroNaderDev/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
   <br/><sub>Light SVG — auto-updated daily</sub>
 </p>
 ---
