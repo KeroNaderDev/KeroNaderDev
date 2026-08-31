@@ -1,3 +1,6 @@
+<h1 align="center">Kero Nader — End-to-End Systems Builder</h1>
+<p align="center"><em>Cybersecurity • Full Stack • DevOps • Embedded & IoT — Cairo, Egypt</em></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=End-to-End+Systems+Builder;ESP32+%E2%86%92+Sensors+%E2%86%92+Wi-Fi+%E2%86%92+API+%E2%86%92+DB+%E2%86%92+Dashboard+%E2%86%92+Security+Audit;Build+%E2%86%92+Deploy+%E2%86%92+Connect+Hardware+%E2%86%92+Secure" alt="Typing SVG" />
 </p>
@@ -147,3 +150,7 @@ More on 👉 [kero.10001mb.com/blog](https://kero.10001mb.com/blog/?lang=en)
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=90&section=footer&text=%C2%A9%202026%20Kero%20Nader%20%E2%80%94%20OrcaTech&fontSize=13&fontColor=94a3b8&animation=fadeIn" />
+
+---
+
+<p align="center"><sub>© 2026 Kero Nader — OrcaTech • Built, deployed, and secured in Cairo, Egypt • <a href="https://kero.10001mb.com">kero.10001mb.com</a></sub></p>
