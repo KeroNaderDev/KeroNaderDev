@@ -2,9 +2,9 @@
 ![Main Banner](./banner.svg)
 <p align="center"><b>Cybersecurity Engineer | Full Stack Developer | DevOps & IoT</b></p>
 <p align="center">
-  <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
-  <a href="https://www.linkedin.com/in/kero-nader-98732b288/"><img src="https://img.shields.io/badge/LinkedIn-Kero_Nader-020617?style=for-the-badge&logo=linkedin&logoColor=00d2ff" /></a>
-  <a href="https://kero.10001mb.com"><img src="https://img.shields.io/badge/Portfolio-kero.10001mb.com-020617?style=for-the-badge&logo=googlechrome&logoColor=00d2ff" /></a>
+ <a href="https://github.com/KeroNaderDev"><img src="https://img.shields.io/badge/GitHub-KeroNaderDev-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
+ <a href="https://www.linkedin.com/in/kero-nader-98732b288/"><img src="https://img.shields.io/badge/LinkedIn-Kero_Nader-020617?style=for-the-badge&logo=linkedin&logoColor=00d2ff" /></a>
+ <a href="https://kero.10001mb.com"><img src="https://img.shields.io/badge/Portfolio-kero.10001mb.com-020617?style=for-the-badge&logo=googlechrome&logoColor=00d2ff" /></a>
 </p>
 
 <p align="center"><i>Building, securing, deploying, and integrating complete digital systems — from web applications and infrastructure to embedded devices and IoT.</i></p>
@@ -16,21 +16,21 @@
 ![Full Stack](./fullstack.svg)
 ```text
 ┌─────────────────────────────────────────────┐
-│ kero@systems:~$                            │
-│                                             │
-│ $ whoami                                    │
-│ Kero Nader                                  │
-│                                             │
-│ $ role                                      │
-│ Cybersecurity Engineer                      │
-│                                             │
-│ $ stack                                     │
-│ Full Stack • DevOps • IoT                   │
-│                                             │
-│ $ mission                                   │
-│ Build • Secure • Deploy • Connect           │
-│                                             │
-│ SYSTEM STATUS: ONLINE  ●                    │
+│ kero@systems:~$ │
+│ │
+│ $ whoami │
+│ Kero Nader │
+│ │
+│ $ role │
+│ Cybersecurity Engineer │
+│ │
+│ $ stack │
+│ Full Stack • DevOps • IoT │
+│ │
+│ $ mission │
+│ Build • Secure • Deploy • Connect │
+│ │
+│ SYSTEM STATUS: ONLINE ● │
 └─────────────────────────────────────────────┘
 ```
 ---
@@ -76,10 +76,10 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 
 ### 🎯 Four Pillars, One Pipeline
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-00d2ff?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-10b981?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cybersecurity-ff3b5c?style=flat-square&logo=shield&logoColor=white" />
+ <img src="https://img.shields.io/badge/Full%20Stack-00d2ff?style=flat-square&logo=react&logoColor=white" />
+ <img src="https://img.shields.io/badge/DevOps-10b981?style=flat-square&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/Embedded-f59e0b?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 | Pillar | Focus | Key Skills |
@@ -95,36 +95,36 @@ I'm **Kero Nader** — **Systems builder** from **Cairo, Egypt** • Member of *
 *Visual identity — FROM CODE TO CLOUD TO HARDWARE*
 ```text
 ┌──────────┐
-│   CODE   │
+│ CODE │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
 │ SECURITY │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
-│  CI/CD   │
+│ CI/CD │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
-│  DOCKER  │
+│ DOCKER │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
-│   LINUX  │
+│ LINUX │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
-│    API   │
+│ API │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
 │ DATABASE │
 └────┬─────┘
-     ↓
+ ↓
 ┌──────────┐
-│ ESP32 /  │
-│   IoT    │
+│ ESP32 / │
+│ IoT │
 └──────────┘
 ```
 ---
@@ -157,7 +157,7 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ![Tech Stack](./techstack.svg) — The Tools I Actually Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,bash" alt="Stack" />
+ <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,c,cpp,html,css,tailwind,mysql,postgres,mongodb,firebase,git,docker,linux,arduino,bash" alt="Stack" />
 </p>
 
 | Category | Technologies |
@@ -172,54 +172,50 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ---
 
-
 ---
-
 
 ---
 
 ### 🌟 Real Project Showcase — Production System
 
-> **This is a real project — not a demo** — built for a real client with real data.
+> **This is a real project — not a ** — built for a real client with real data.
 
 **[⚽ Kora Academy Platform — Kora-gym](https://github.com/KeroNaderDev/Kora-gym)** `Private — Hidden as requested` — *Full Stack Track*
 - **Problem:** Managing a football academy (players, evaluation, payments, auditing)
 - **Solution:** Next.js + MySQL + RBAC + Financial auditing — handles 1,000+ player records
 - **Tech:** Next.js, React, MySQL, Prisma, RBAC
 - **Value:** Proves I can ship real production systems, not just demos
-- **Link:** [GitHub](https://github.com/KeroNaderDev/Kora-gym) • [Live Demo](https://kero.10001mb.com/projects/kora-platform.html) • **Private — Hidden**
+- **Link:** [GitHub](https://github.com/KeroNaderDev/Kora-gym) • [Live ](https://kero.10001mb.com/projects/kora-platform.html) • **Private — Hidden**
 
-*All other 12 projects below are **Demo Showcase** with synthetic data — this one is **Real**.*
+*All other 12 projects below are **Real Code** with synthetic data — this one is **Real**.*
 
+### 🚀 Featured Projects — By Track (12 Demos)
 
-### 🚀 Featured Demo Projects — By Track (12 Demos)
-
-> **Demo Showcase — Synthetic Data Only** — كل مشروع بيحل مشكلة حقيقية بـ Demo Data وهمي، مربوط بالـ Track
+> **Real Code — Portfolio Showcase** — كل مشروع بيحل مشكلة حقيقية بـ كود حقيقي، مربوط بالـ Track
 
 #### 🔐 Track 1: Cybersecurity (3)
-- [**secure-api-gateway-demo**](https://github.com/KeroNaderDev/secure-api-gateway-demo) — Secure API Gateway — Rate Limit & Validation
-- [**vuln-scanner-dashboard-demo**](https://github.com/KeroNaderDev/vuln-scanner-dashboard-demo) — Vuln Scanner Dashboard — CVSS scoring
-- [**owasp-lab-automator-demo**](https://github.com/KeroNaderDev/owasp-lab-automator-demo) — OWASP Lab Automator — Top 10 tests
+- [**secure-api-gateway-**](https://github.com/KeroNaderDev/secure-api-gateway-) — Secure API Gateway — Rate Limit & Validation
+- [**vuln-scanner-dashboard-**](https://github.com/KeroNaderDev/vuln-scanner-dashboard-) — Vuln Scanner Dashboard — CVSS scoring
+- [**owasp-lab-automator-**](https://github.com/KeroNaderDev/owasp-lab-automator-) — OWASP Lab Automator — Top 10 tests
 
 #### 💻 Track 2: Full Stack / Backend (3)
-- [**secure-task-manager-demo**](https://github.com/KeroNaderDev/secure-task-manager-demo) — Secure Task Manager — RBAC + JWT
-- [**real-estate-marketplace-demo**](https://github.com/KeroNaderDev/real-estate-marketplace-demo) — Real Estate Marketplace — Search & Payments
-- [**ecommerce-secure-api-demo**](https://github.com/KeroNaderDev/ecommerce-secure-api-demo) — E-Commerce Secure API
+- [**secure-task-manager-**](https://github.com/KeroNaderDev/secure-task-manager-) — Secure Task Manager — RBAC + JWT
+- [**real-estate-marketplace-**](https://github.com/KeroNaderDev/real-estate-marketplace-) — Real Estate Marketplace — Search & Payments
+- [**ecommerce-secure-api-**](https://github.com/KeroNaderDev/ecommerce-secure-api-) — E-Commerce Secure API
 
 #### ⚙️ Track 3: DevOps / Cloud / Linux / Docker / CI/CD (3)
-- [**dockerized-fullstack-pipeline-demo**](https://github.com/KeroNaderDev/dockerized-fullstack-pipeline-demo) — `GitHub → CI/CD → Docker → Linux → Nginx → SSL`
-- [**infra-monitor-demo**](https://github.com/KeroNaderDev/infra-monitor-demo) — Infra Monitor — Linux Logs & Uptime
-- [**k8s-local-lab-demo**](https://github.com/KeroNaderDev/k8s-local-lab-demo) — K8s Local Lab — Kubernetes experiments
+- [**dockerized-fullstack-pipeline-**](https://github.com/KeroNaderDev/dockerized-fullstack-pipeline-) — `GitHub → CI/CD → Docker → Linux → Nginx → SSL`
+- [**infra-monitor-**](https://github.com/KeroNaderDev/infra-monitor-) — Infra Monitor — Linux Logs & Uptime
+- [**k8s-local-lab-**](https://github.com/KeroNaderDev/k8s-local-lab-) — K8s Local Lab — Kubernetes experiments
 
 #### 🤖 Track 4: IoT / ESP32 / Arduino / Embedded (3)
-- [**esp32-env-monitor-demo**](https://github.com/KeroNaderDev/esp32-env-monitor-demo) — `ESP32 → Wi-Fi → API → DB → Dashboard`
-- [**smart-irrigation-demo**](https://github.com/KeroNaderDev/smart-irrigation-demo) — Smart Irrigation — Sensors + MQTT
-- [**arduino-security-node-demo**](https://github.com/KeroNaderDev/arduino-security-node-demo) — Arduino Security Node — Motion + Telegram
+- [**esp32-env-monitor-**](https://github.com/KeroNaderDev/esp32-env-monitor-) — `ESP32 → Wi-Fi → API → DB → Dashboard`
+- [**smart-irrigation-**](https://github.com/KeroNaderDev/smart-irrigation-) — Smart Irrigation — Sensors + MQTT
+- [**arduino-security-node-**](https://github.com/KeroNaderDev/arduino-security-node-) — Arduino Security Node — Motion + Telegram
 
 <p align="center">
-  <a href="https://github.com/KeroNaderDev?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Tracks-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
+ <a href="https://github.com/KeroNaderDev?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Tracks-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
 </p>
-
 
 ### 🧪 ENGINEERING LABS
 
@@ -247,17 +243,17 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 ```text
 SYSTEM STATUS
 ────────────────────
-SECURITY       ONLINE  ●
-DEVELOPMENT    ONLINE  ●
-DEVOPS         ONLINE  ●
-IoT            ONLINE  ●
-BUILD STATUS   STABLE
-ENVIRONMENT    LINUX
-MODE           ENGINEERING
+SECURITY ONLINE ●
+DEVELOPMENT ONLINE ●
+DEVOPS ONLINE ●
+IoT ONLINE ●
+BUILD STATUS STABLE
+ENVIRONMENT LINUX
+MODE ENGINEERING
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
-  <br/><sub>Light SVG — auto-updated daily</sub>
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+ <br/><sub>Light SVG — auto-updated daily</sub>
 </p>
 ---
 
