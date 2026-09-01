@@ -182,12 +182,12 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 > **This is a real project — not a demo** — built for a real client with real data.
 
-**[⚽ Kora Academy Platform — Kora-gym](https://github.com/KeroNaderDev/Kora-gym)** `Public` — *Full Stack Track*
+**[⚽ Kora Academy Platform — Kora-gym](https://github.com/KeroNaderDev/Kora-gym)** `Private — Hidden as requested` — *Full Stack Track*
 - **Problem:** Managing a football academy (players, evaluation, payments, auditing)
 - **Solution:** Next.js + MySQL + RBAC + Financial auditing — handles 1,000+ player records
 - **Tech:** Next.js, React, MySQL, Prisma, RBAC
 - **Value:** Proves I can ship real production systems, not just demos
-- **Link:** [GitHub](https://github.com/KeroNaderDev/Kora-gym) • [Live Demo](https://kero.10001mb.com/projects/kora-platform.html) • **Public Repo — Real Code**
+- **Link:** [GitHub](https://github.com/KeroNaderDev/Kora-gym) • [Live Demo](https://kero.10001mb.com/projects/kora-platform.html) • **Private — Hidden**
 
 *All other 12 projects below are **Demo Showcase** with synthetic data — this one is **Real**.*
 
