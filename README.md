@@ -172,6 +172,38 @@ ESP32 → SENSORS → Wi-Fi / MQTT → REST API → DATABASE → WEB DASHBOARD
 
 ---
 
+
+---
+
+### 🚀 Featured Demo Projects — By Track (12 Demos)
+
+> **Demo Showcase — Synthetic Data Only** — كل مشروع بيحل مشكلة حقيقية بـ Demo Data وهمي، مربوط بالـ Track
+
+#### 🔐 Track 1: Cybersecurity (3)
+- [**secure-api-gateway-demo**](https://github.com/KeroNaderDev/secure-api-gateway-demo) — Secure API Gateway — Rate Limit & Validation
+- [**vuln-scanner-dashboard-demo**](https://github.com/KeroNaderDev/vuln-scanner-dashboard-demo) — Vuln Scanner Dashboard — CVSS scoring
+- [**owasp-lab-automator-demo**](https://github.com/KeroNaderDev/owasp-lab-automator-demo) — OWASP Lab Automator — Top 10 tests
+
+#### 💻 Track 2: Full Stack / Backend (3)
+- [**secure-task-manager-demo**](https://github.com/KeroNaderDev/secure-task-manager-demo) — Secure Task Manager — RBAC + JWT
+- [**real-estate-marketplace-demo**](https://github.com/KeroNaderDev/real-estate-marketplace-demo) — Real Estate Marketplace — Search & Payments
+- [**ecommerce-secure-api-demo**](https://github.com/KeroNaderDev/ecommerce-secure-api-demo) — E-Commerce Secure API
+
+#### ⚙️ Track 3: DevOps / Cloud / Linux / Docker / CI/CD (3)
+- [**dockerized-fullstack-pipeline-demo**](https://github.com/KeroNaderDev/dockerized-fullstack-pipeline-demo) — `GitHub → CI/CD → Docker → Linux → Nginx → SSL`
+- [**infra-monitor-demo**](https://github.com/KeroNaderDev/infra-monitor-demo) — Infra Monitor — Linux Logs & Uptime
+- [**k8s-local-lab-demo**](https://github.com/KeroNaderDev/k8s-local-lab-demo) — K8s Local Lab — Kubernetes experiments
+
+#### 🤖 Track 4: IoT / ESP32 / Arduino / Embedded (3)
+- [**esp32-env-monitor-demo**](https://github.com/KeroNaderDev/esp32-env-monitor-demo) — `ESP32 → Wi-Fi → API → DB → Dashboard`
+- [**smart-irrigation-demo**](https://github.com/KeroNaderDev/smart-irrigation-demo) — Smart Irrigation — Sensors + MQTT
+- [**arduino-security-node-demo**](https://github.com/KeroNaderDev/arduino-security-node-demo) — Arduino Security Node — Motion + Telegram
+
+<p align="center">
+  <a href="https://github.com/KeroNaderDev?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Tracks-020617?style=for-the-badge&logo=github&logoColor=00d2ff" /></a>
+</p>
+
+
 ### 🧪 ENGINEERING LABS
 
 ![Open Source](./opensource.svg)
